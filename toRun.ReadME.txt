@@ -4,8 +4,4 @@ mvn assembly:assembly -DdescriptorId=jar-with-dependencies
 mvn exec:java -Dexec.mainClass="com.mycompany.app.App"
 
 
-
-java -cp target/my-app-1.0-SNAPSHOT.jar com.mycompany.app.App classifiers/english.all.3class.distsim.crf.ser.gz jon.txt
-
-
 java -jar target/my-app-1.0-SNAPSHOT-jar-with-dependencies.jar classifiers/english.all.3class.distsim.crf.ser.gz jon.txt
