@@ -1,0 +1,32 @@
+<sentence id=0 k=1 logProb=-1.3152096357233631 prob=0.26841804732920654>
+The/O Board/O of/O the/O Cameron/ORGANIZATION Station/ORGANIZATION Civic/ORGANIZATION Association/ORGANIZATION -LRB-/O ``/O CSCA/O Board/O ''/O -RRB-/O is/O troubled/O by/O the/O fact/O that/O the/O Planning/ORGANIZATION Commission/ORGANIZATION is/O reviewing/O the/O Sunset/O Provision/O since/O SUP/O provision/O #/O 75/O states/O that/O only/O City/ORGANIZATION Council/ORGANIZATION has/O the/O authority/O to/O make/O the/O determinations/O required/O ./O 
+</sentence>
+<sentence id=0 k=2 logProb=-1.9554929531353764 prob=0.14149470923894544>
+The/O Board/ORGANIZATION of/ORGANIZATION the/ORGANIZATION Cameron/ORGANIZATION Station/ORGANIZATION Civic/ORGANIZATION Association/ORGANIZATION -LRB-/O ``/O CSCA/O Board/O ''/O -RRB-/O is/O troubled/O by/O the/O fact/O that/O the/O Planning/ORGANIZATION Commission/ORGANIZATION is/O reviewing/O the/O Sunset/O Provision/O since/O SUP/O provision/O #/O 75/O states/O that/O only/O City/ORGANIZATION Council/ORGANIZATION has/O the/O authority/O to/O make/O the/O determinations/O required/O ./O 
+</sentence>
+<sentence id=0 k=3 logProb=-2.5084608219195843 prob=0.0813934218478137>
+The/O Board/O of/O the/O Cameron/ORGANIZATION Station/ORGANIZATION Civic/ORGANIZATION Association/ORGANIZATION -LRB-/O ``/O CSCA/ORGANIZATION Board/ORGANIZATION ''/O -RRB-/O is/O troubled/O by/O the/O fact/O that/O the/O Planning/ORGANIZATION Commission/ORGANIZATION is/O reviewing/O the/O Sunset/O Provision/O since/O SUP/O provision/O #/O 75/O states/O that/O only/O City/ORGANIZATION Council/ORGANIZATION has/O the/O authority/O to/O make/O the/O determinations/O required/O ./O 
+</sentence>
+<sentence id=0 k=4 logProb=-2.623859964572489 prob=0.0725223880158045>
+The/O Board/O of/O the/O Cameron/ORGANIZATION Station/ORGANIZATION Civic/ORGANIZATION Association/ORGANIZATION -LRB-/O ``/O CSCA/O Board/O ''/O -RRB-/O is/O troubled/O by/O the/O fact/O that/O the/O Planning/ORGANIZATION Commission/ORGANIZATION is/O reviewing/O the/O Sunset/O Provision/O since/O SUP/O provision/O #/O 75/O states/O that/O only/O City/O Council/O has/O the/O authority/O to/O make/O the/O determinations/O required/O ./O 
+</sentence>
+<sentence id=0 k=5 logProb=-3.1487441393315976 prob=0.04290597697476839>
+The/O Board/ORGANIZATION of/ORGANIZATION the/ORGANIZATION Cameron/ORGANIZATION Station/ORGANIZATION Civic/ORGANIZATION Association/ORGANIZATION -LRB-/O ``/O CSCA/ORGANIZATION Board/ORGANIZATION ''/O -RRB-/O is/O troubled/O by/O the/O fact/O that/O the/O Planning/ORGANIZATION Commission/ORGANIZATION is/O reviewing/O the/O Sunset/O Provision/O since/O SUP/O provision/O #/O 75/O states/O that/O only/O City/ORGANIZATION Council/ORGANIZATION has/O the/O authority/O to/O make/O the/O determinations/O required/O ./O 
+</sentence>
+<sentence id=0 k=6 logProb=-3.264143281984502 prob=0.038229673107728034>
+The/O Board/ORGANIZATION of/ORGANIZATION the/ORGANIZATION Cameron/ORGANIZATION Station/ORGANIZATION Civic/ORGANIZATION Association/ORGANIZATION -LRB-/O ``/O CSCA/O Board/O ''/O -RRB-/O is/O troubled/O by/O the/O fact/O that/O the/O Planning/ORGANIZATION Commission/ORGANIZATION is/O reviewing/O the/O Sunset/O Provision/O since/O SUP/O provision/O #/O 75/O states/O that/O only/O City/O Council/O has/O the/O authority/O to/O make/O the/O determinations/O required/O ./O 
+</sentence>
+<sentence id=0 k=7 logProb=-3.41714880562688 prob=0.03280583754066024>
+The/O Board/O of/O the/O Cameron/ORGANIZATION Station/ORGANIZATION Civic/ORGANIZATION Association/ORGANIZATION -LRB-/O ``/O CSCA/O Board/O ''/O -RRB-/O is/O troubled/O by/O the/O fact/O that/O the/O Planning/ORGANIZATION Commission/ORGANIZATION is/O reviewing/O the/O Sunset/O Provision/O since/O SUP/ORGANIZATION provision/O #/O 75/O states/O that/O only/O City/ORGANIZATION Council/ORGANIZATION has/O the/O authority/O to/O make/O the/O determinations/O required/O ./O 
+</sentence>
+<sentence id=0 k=8 logProb=-3.6580590146786562 prob=0.02578250765986313>
+The/O Board/ORGANIZATION of/O the/O Cameron/ORGANIZATION Station/ORGANIZATION Civic/ORGANIZATION Association/ORGANIZATION -LRB-/O ``/O CSCA/O Board/O ''/O -RRB-/O is/O troubled/O by/O the/O fact/O that/O the/O Planning/ORGANIZATION Commission/ORGANIZATION is/O reviewing/O the/O Sunset/O Provision/O since/O SUP/O provision/O #/O 75/O states/O that/O only/O City/ORGANIZATION Council/ORGANIZATION has/O the/O authority/O to/O make/O the/O determinations/O required/O ./O 
+</sentence>
+<sentence id=0 k=9 logProb=-3.81711115076871 prob=0.021991238591872866>
+The/O Board/O of/O the/O Cameron/ORGANIZATION Station/ORGANIZATION Civic/ORGANIZATION Association/ORGANIZATION -LRB-/O ``/O CSCA/ORGANIZATION Board/ORGANIZATION ''/O -RRB-/O is/O troubled/O by/O the/O fact/O that/O the/O Planning/ORGANIZATION Commission/ORGANIZATION is/O reviewing/O the/O Sunset/O Provision/O since/O SUP/O provision/O #/O 75/O states/O that/O only/O City/O Council/O has/O the/O authority/O to/O make/O the/O determinations/O required/O ./O 
+</sentence>
+<sentence id=0 k=10 logProb=-4.020750094614755 prob=0.017939503566465727>
+The/O Board/O of/O the/O Cameron/ORGANIZATION Station/ORGANIZATION Civic/ORGANIZATION Association/ORGANIZATION -LRB-/O ``/O CSCA/ORGANIZATION Board/O ''/O -RRB-/O is/O troubled/O by/O the/O fact/O that/O the/O Planning/ORGANIZATION Commission/ORGANIZATION is/O reviewing/O the/O Sunset/O Provision/O since/O SUP/O provision/O #/O 75/O states/O that/O only/O City/ORGANIZATION Council/ORGANIZATION has/O the/O authority/O to/O make/O the/O determinations/O required/O ./O 
+</sentence>
+---
+Per-token marginalized probabilities
